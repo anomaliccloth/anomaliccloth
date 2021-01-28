@@ -1,0 +1,43 @@
+.jumbotron {
+    position: relative;
+    background-image: url(img/bgg.png);
+    background-size: cover;
+    height: 550px ;
+    overflow: hidden;
+    text-align: center;
+
+}
+.jumbotron .display-4 {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+}
+.jumbotron .btn {
+    background-color: rgb(0, 0, 0);
+    border-radius: 25px;
+}
+.jumbotron p {
+    color: cornsilk;
+}
+.card-body {
+    text-align: center;
+}
+.media {
+    background-color: rgb(95, 94, 94);
+    height: 450px;
+    width: 2000px;
+}
+img {
+    width: 75px;
+}
+.row .card:hover{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+}
+.media{
+    margin-top: 100px;
+    
+}
+hr {
+    border-width: 2PX;
+}
